@@ -30,8 +30,7 @@ SkyGuard SE is an AI-powered autonomous drone designed for smart surveillance an
 - **FlySky FS-i6 Transmitter & Receiver**
 - **NAZA Flight Controller**
 - **Propellers, PDB, and Connectors**
-
----
+**
 
 ## 🧠 Technologies Used
 
